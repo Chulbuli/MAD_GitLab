@@ -10,5 +10,6 @@ public class MAD_git extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mad_git);
         System.out.println("HI !");
+        System.out.println("Thaaru");
     }
 }

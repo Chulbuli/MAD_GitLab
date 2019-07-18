@@ -9,5 +9,6 @@ public class MAD_git extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mad_git);
+        System.out.println("HI !");
     }
 }
